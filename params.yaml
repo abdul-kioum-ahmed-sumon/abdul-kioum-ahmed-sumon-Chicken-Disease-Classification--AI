@@ -1,0 +1,28 @@
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model
+BATCH_SIZE: 32
+INCLUDE_TOP: False
+EPOCHS: 10
+CLASSES: 2
+WEIGHTS: imagenet
+LEARNING_RATE: 0.001
+
+# Data Augmentation Parameters
+AUGMENTATION_PARAMS:
+  rotation_range: 40
+  width_shift_range: 0.2
+  height_shift_range: 0.2
+  shear_range: 0.2
+  zoom_range: 0.2
+  horizontal_flip: True
+  fill_mode: "nearest"
+
+# Training Parameters
+EARLY_STOPPING:
+  monitor: "val_loss"
+  patience: 3
+  restore_best_weights: True
+
+# Model Parameters
+MODEL_VERSION: "1.0.0"
+CONFIDENCE_THRESHOLD: 0.6

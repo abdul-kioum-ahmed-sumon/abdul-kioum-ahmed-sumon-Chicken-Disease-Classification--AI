@@ -1,0 +1,178 @@
+[
+  {
+    "class": "Healthy",
+    "confidence": 99.73,
+    "predictions": {
+      "Coccidiosis": 0.27,
+      "Healthy": 99.73
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T00:22:38.823856",
+    "processing_time": 0.38
+  },
+  {
+    "class": "Healthy",
+    "confidence": 99.97,
+    "predictions": {
+      "Coccidiosis": 0.03,
+      "Healthy": 99.97
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T01:12:08.888579",
+    "processing_time": 0.58
+  },
+  {
+    "class": "Healthy",
+    "confidence": 82.37,
+    "predictions": {
+      "Coccidiosis": 17.63,
+      "Healthy": 82.37
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T01:15:04.386351",
+    "processing_time": 0.45
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 98.95,
+    "predictions": {
+      "Coccidiosis": 98.95,
+      "Healthy": 1.05
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T01:15:12.418683",
+    "processing_time": 0.23
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 99.17,
+    "predictions": {
+      "Coccidiosis": 99.17,
+      "Healthy": 0.83
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T01:15:34.346237",
+    "processing_time": 0.19
+  },
+  {
+    "class": "Healthy",
+    "confidence": 99.49,
+    "predictions": {
+      "Coccidiosis": 0.51,
+      "Healthy": 99.49
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T01:15:47.414430",
+    "processing_time": 0.2
+  },
+  {
+    "class": "Healthy",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 0.0,
+      "Healthy": 100.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:25:38.793405",
+    "processing_time": 0.35
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 99.11,
+    "predictions": {
+      "Coccidiosis": 99.11,
+      "Healthy": 0.89
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:25:51.135960",
+    "processing_time": 0.16
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 100.0,
+      "Healthy": 0.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:25:58.081892",
+    "processing_time": 0.15
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 100.0,
+      "Healthy": 0.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:26:08.293961",
+    "processing_time": 0.16
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 99.11,
+    "predictions": {
+      "Coccidiosis": 99.11,
+      "Healthy": 0.89
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:27:47.800923",
+    "processing_time": 0.35
+  },
+  {
+    "class": "Coccidiosis",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 100.0,
+      "Healthy": 0.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:28:13.147512",
+    "processing_time": 0.2
+  },
+  {
+    "class": "Healthy",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 0.0,
+      "Healthy": 100.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:28:38.845480",
+    "processing_time": 0.16
+  },
+  {
+    "class": "Healthy",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 0.0,
+      "Healthy": 100.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:28:46.609382",
+    "processing_time": 0.16
+  },
+  {
+    "class": "Healthy",
+    "confidence": 100.0,
+    "predictions": {
+      "Coccidiosis": 0.0,
+      "Healthy": 100.0
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:28:52.661999",
+    "processing_time": 0.15
+  },
+  {
+    "class": "Healthy",
+    "confidence": 61.87,
+    "predictions": {
+      "Coccidiosis": 38.13,
+      "Healthy": 61.87
+    },
+    "model_version": "1.0.0",
+    "timestamp": "2025-05-21T05:28:59.701949",
+    "processing_time": 0.18
+  }
+]
